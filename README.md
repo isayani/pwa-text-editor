@@ -56,7 +56,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Installation
-This application is deployed to [Heroku](https://choosealicense.com/licenses/mit/).
+This application is deployed to [Heroku](https://justanotherte.herokuapp.com/).
 
 To run J.A.T.E locally:
 
@@ -65,11 +65,25 @@ To run J.A.T.E locally:
 3. Invoke application with ```npm run start```
 </br>
 The following animation demonstrates the application's functionality:
+
+
+
+![J A T E Demo](https://user-images.githubusercontent.com/107900180/206565673-960dc4c8-1d0e-447e-9606-88ef539e1031.gif)
+
 </br>
 
 The following image shows the application's ```manifest.json``` file:
+![manifest](https://user-images.githubusercontent.com/107900180/206566689-e37bb4b2-783b-4328-afe6-16664b20181b.png)
+
 </br>
 The following image shows the application's registered service worker:
+
+![serviceworker](https://user-images.githubusercontent.com/107900180/206567108-41efd859-b8d6-480b-8dc2-d383c4a76d06.png)
+
+</br>
+The following image shows the application's IndexedDB storage:
+
+![idb](https://user-images.githubusercontent.com/107900180/206567448-c4d0939a-4690-4b40-a597-476b1e1c0c19.png)
 
 
 ## License
